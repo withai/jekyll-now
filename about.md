@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Earthling, Not a Robot, Machine Learning enthusiast, Aspiring entrepreneur, futuristic person, Gallivanter.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My quench in technology is so avid that it cannot be extinguished. So, Started developing mobile applications, websites, got excited about machine learning and in particular Deep Learning, experimenting with it and this excitement resulted in creation of this blog and repository.   
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yashwanthvreddy@gmail.com](mailto:yashwanthvreddy@gmail.com)
