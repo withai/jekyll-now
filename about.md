@@ -12,4 +12,4 @@ My quench in technology is so avid that it cannot be extinguished. So, Started d
 
 ### Contact me
 
-[yashwanthvreddy@gmail.com](mailto:yashwanthvreddy@gmail.com)
+[builtwithai@gmail.com](mailto:builtwithai@gmail.com)
