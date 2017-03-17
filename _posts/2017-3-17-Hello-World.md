@@ -5,9 +5,9 @@ title: Hello World
 
 Take a sneak peek at the contents of the repository [here](https://github.com/withai/Deep_learning_on_databases). This repository contains models developed using different neural network(Deep learning) techniques on various databases(MNIST, not-MNIST, Text, etc).  
 
-
+<br>
 All models had been developed with Python 3.5, [Tensorflow](https://www.tensorflow.org)
-
+<br><br>
 
 Take a look at some of the insights into the repository,
 
