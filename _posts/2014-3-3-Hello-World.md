@@ -10,5 +10,5 @@ All models had been developed with Python 3.5, [Tensorflow](https://www.tensorfl
 Take a look at some of the insights into the repository
 
 Word2Vec embedding representation using Tensorflow Embedding projector
-![_config.yml]({{ site.baseurl }}/images/word2vec_TSNE.png)
+![_config.yml]({{ site.baseurl }}/images/word2Vec_TSNE.png)
 
